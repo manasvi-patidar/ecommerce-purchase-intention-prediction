@@ -118,6 +118,4 @@ Additional evaluation metrics:
 
 **Manasvi Patidar**
 
-[GitHub](https://github.com/manasvi-patidar)
-
 ---

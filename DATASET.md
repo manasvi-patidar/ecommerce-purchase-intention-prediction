@@ -112,17 +112,3 @@ The dataset contains a combination of numerical and categorical features.
 | Target                | `Revenue`                                                                      |
 
 ---
-
-## 7. Dataset Usage
-
-The dataset is used throughout the project for:
-
-1. Exploratory Data Analysis (EDA).
-2. Understanding visitor browsing patterns.
-3. Identifying relationships between features and purchase behaviour.
-4. Data preprocessing and feature transformations.
-5. Building a Decision Tree Classification model.
-6. Applying pruning techniques to improve model performance.
-7. Evaluating predictions using the F1-score.
-
----

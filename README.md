@@ -1,3 +1,4 @@
+
 # 🛍️ ShopSense AI
 
 ### E-Commerce Purchase Intention Prediction
@@ -28,25 +29,25 @@ Each record represents a unique visitor session and contains numerical and categ
 
 ### Key Features
 
-| Feature                 | Description                                           |
-| ----------------------- | ----------------------------------------------------- |
-| Administrative          | Number of administrative pages visited                |
-| Administrative_Duration | Time spent on administrative pages                    |
-| Informational           | Number of informational pages visited                 |
-| Informational_Duration  | Time spent on informational pages                     |
-| ProductRelated          | Number of product-related pages visited               |
-| ProductRelated_Duration | Time spent on product-related pages                   |
-| BounceRates             | Percentage of visitors leaving after viewing one page |
-| ExitRates               | Percentage of exits from a page                       |
-| PageValues              | Average value of pages visited before a transaction   |
-| SpecialDay              | Closeness of the visit date to a special day          |
-| Month                   | Month of the visit                                    |
-| OperatingSystems        | Operating system used by the visitor                  |
-| Browser                 | Browser used by the visitor                           |
-| Region                  | Geographic region of the visitor                      |
-| TrafficType             | Source of website traffic                             |
-| VisitorType             | Type of visitor                                       |
-| Weekend                 | Whether the visit occurred on a weekend               |
+| Feature | Description |
+|---|---|
+| Administrative | Number of administrative pages visited |
+| Administrative_Duration | Time spent on administrative pages |
+| Informational | Number of informational pages visited |
+| Informational_Duration | Time spent on informational pages |
+| ProductRelated | Number of product-related pages visited |
+| ProductRelated_Duration | Time spent on product-related pages |
+| BounceRates | Percentage of visitors leaving after viewing one page |
+| ExitRates | Percentage of exits from a page |
+| PageValues | Average value of pages visited before a transaction |
+| SpecialDay | Closeness of the visit date to a special day |
+| Month | Month of the visit |
+| OperatingSystems | Operating system used by the visitor |
+| Browser | Browser used by the visitor |
+| Region | Geographic region of the visitor |
+| TrafficType | Source of website traffic |
+| VisitorType | Type of visitor |
+| Weekend | Whether the visit occurred on a weekend |
 
 **Target Variable:** `Revenue`
 
@@ -117,5 +118,7 @@ Additional evaluation metrics:
 ## 👩‍💻 Author
 
 **Manasvi Patidar**
+
+[GitHub](https://github.com/manasvi-patidar)
 
 ---
